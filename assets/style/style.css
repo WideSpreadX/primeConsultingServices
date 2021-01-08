@@ -52,6 +52,10 @@ h2 {
 .main-image img {
     border-radius: 10px;
 }
+.resize-image img {
+    max-width: 70vw;
+    box-shadow: 0 0 10px #000;
+}
 .jumbotron {
     border-radius: 15px;
 }
