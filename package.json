@@ -1,0 +1,19 @@
+{
+  "name": "primeconsultingservices",
+  "version": "1.0.0",
+  "description": "Ideas for Prime Consulting Services website rebuild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WideSpreadX/primeConsultingServices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WideSpreadX/primeConsultingServices/issues"
+  },
+  "homepage": "https://github.com/WideSpreadX/primeConsultingServices#readme"
+}

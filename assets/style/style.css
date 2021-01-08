@@ -1,0 +1,101 @@
+body {
+  background: #111;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+h2 {
+    text-align: center;
+}
+.navbar-brand {
+    font-size: 0.9rem;
+}
+.main-body {
+    background: #ccc;
+    min-height: calc(95vh - 100px);
+    padding: 20px;
+    padding-bottom: 50px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.main-body section {
+    padding: 10px;
+    margin-top: 20px;
+}
+.main-body section p {
+    padding: 10px;
+}
+.main-body section ol,ul {
+    padding: 30px;
+}
+.divider {
+    background: #000;
+    width: 6px;
+    height: 100%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.308);
+    border-radius: 3px;
+}
+.bold {
+    font-weight: bolder;
+    font-size: 1.1rem;
+    border-left: solid 1px #444;
+    padding-left: 40px;
+}
+.bold li {
+    padding: 6px;
+}
+.main-image {
+    text-align: center;
+    padding: 20px;
+}
+.main-image img {
+    border-radius: 10px;
+}
+.jumbotron {
+    border-radius: 15px;
+}
+.jumbotron h2 {
+    text-align: center;
+}
+.jumbotron p {
+    padding: 10px;
+}
+.contact-info {
+    text-align: center;
+    margin-top: 50px;
+}
+.contact-info a {
+    color: #444;
+    text-shadow: 0 0 2px #fff;
+}
+.col-lg-4 h5 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.col-lg-4 ul {
+    padding: 60px;
+}
+
+.col-lg-6 {
+    vertical-align: middle;
+    text-justify: distribute-all-lines;
+}
+.col-lg-6 p {
+    height: 100%;
+    line-height: 30px;
+    margin-top: 20px;
+}
+.contact-info strong {
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+.footer {
+    text-align: center;
+    padding: 20px;
+    height: 50px;
+}
+.footer p {
+    color: #ccc;
+}
